@@ -1,6 +1,9 @@
 Qing Wen
+
 Professor Uhe
+
 IS445 -Data Visualization
+
 Final Project
 
 Biggest Takeaway from this class: 
